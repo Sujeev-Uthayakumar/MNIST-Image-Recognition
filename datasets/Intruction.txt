@@ -1,3 +1,0 @@
-unzip the "histopathologic-cancer-detection" file here.
-it should create two folder, train, test
-also "sample_submission" and "train_labels" excel file. 
